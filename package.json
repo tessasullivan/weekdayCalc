@@ -1,7 +1,7 @@
 {
-  "name": "webpack",
+  "name": "weekdaycalculator",
   "version": "1.0.0",
-  "description": "Ping pong counter",
+  "description": "Calculate day of week",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start karma.conf.js",
@@ -10,7 +10,7 @@
     "lint": "eslint src/*.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tessa Sullivan, Dylan Crocker",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
